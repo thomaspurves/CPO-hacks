@@ -44,6 +44,16 @@ Goals for architecture. It's not just about engineering a solution that works. I
 
 ## Strategy
 
+## Product Tools
+
+https://canny.io/
+https://www.gong.io/
+Notion vs google docs vs wikis
+Roadmunk, product board
+Ticketing systems
+Figma / Figjam
+Slack
+
 ## Executive level communication
 
 ## Board level communication
