@@ -6,8 +6,13 @@ Practical hacks for leading product
 ## People
 
 ## Career paths in product
+The best and hardest thing about product it that there is no one path to PM. You can't really go to school for product management at most colleges. In fact the best teams are often formed by diverse teams with different backgrounds and 'first careers' before switching to product. You have to be generalists as a PM team but the best teams will often be composed of generalists with complimentary superpowers eg. previously coming from engineering, design, customer service etc. Yes it is important to have some technical backgroud (and/or be ready to learn). But only recruiting from eng->product will also not get you the strongest overal team. Some of my best early PM mentors had esoteric backgrounds like degrees in philosophy or agriculture. 
+
+### Carreer ladders in product
 
 ## Talking to customers
+* [How to Talk to Users- ycombinator] (https://www.ycombinator.com/library/6g-how-to-talk-to-users)
+* [Customer discovery - Lean Startup summary] (https://www.joyfulbikeshedding.com/blog/2018-06-30-customer-discovery-according-to-the-lean-startup-methodology.html)
 
 ## Building trust between product and engineering
 
