@@ -11,8 +11,8 @@ The best and hardest thing about product it that there is no one path to PM. You
 ### Carreer ladders in product
 
 ## Talking to customers
-* [How to Talk to Users- ycombinator] (https://www.ycombinator.com/library/6g-how-to-talk-to-users)
-* [Customer discovery - Lean Startup summary] (https://www.joyfulbikeshedding.com/blog/2018-06-30-customer-discovery-according-to-the-lean-startup-methodology.html)
+* [How to Talk to Users- ycombinator](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
+* [Customer discovery - Lean Startup summary](https://www.joyfulbikeshedding.com/blog/2018-06-30-customer-discovery-according-to-the-lean-startup-methodology.html)
 
 ## Building trust between product and engineering
 
