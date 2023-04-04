@@ -13,8 +13,10 @@ The best and hardest thing about product it that there is no one path to PM. You
 ## Talking to customers
 * [How to Talk to Users- ycombinator](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
 * [Customer discovery - Lean Startup summary](https://www.joyfulbikeshedding.com/blog/2018-06-30-customer-discovery-according-to-the-lean-startup-methodology.html)
+* Tools: [Gong](https://www.gong.io/) - I LOVE this tool for being able to replay, share, annotate and learn from customer service/success or sales calls. At my last company we had a ritual weekly friday meeting where we'd replay a topical customer conversation of the week and drove an enormous number of actionable insights and ideas from those. 
 
 ## Building trust between product and engineering
+It all starts with trust. Too often I see product and engineering teams quick to throw each other under the bus for missed dealines, quality or expectations. The first job in fixing most cultures where there is disfuction, is by rebuilding trust. But you can't build trust by edict. As a product leader, you have to demonstrate taking personal ownerships of problems and failuers ... what ever the proximate causes, you've got to show that you step up and own them. At the same time delegate responsibility for successes, saves and delivery to engineering. Have engineerings back, and they'll have yours.  
 
 ## Building trust between product, design, engineering and the rest of the org
 
