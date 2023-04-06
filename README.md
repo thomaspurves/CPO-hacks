@@ -1,18 +1,17 @@
 # CPO-hacks
-Practical hacks for leading product
+Practical hacks for leading product, particularly in Fintech. In no partucular order, just as I remember to collect them here.
 
 ## What does a CPO do
+A Chief Product Officer (CPO) for a fintech company is responsible for managing the development and launch of financial products and services. They must ensure the product is compliant with regulations, meets customer needs, and generates revenue. This involves developing the product roadmap, managing the product team, conducting market research, collaborating with other departments, and setting product pricing. A CPO does all this by helping to shape culture, organizational structures (just the right amount of) effective process to enable not just their people, but all the dependant & partner organaizaiont orgs within the the company to be suceessful. Which, btw, is just about all of them. Lastly, it's about leading from the front. Leading from the front means being alsways ready to roll up sleeves and jump in hands-on to help with any challenge within and without of your team. Lastly you've got to absolutely pationate about your problem space and about solving those problemes for your current and future customers. 
 
+## OpenAI Product hacks
 
-
-##OpenAI Product hacks
-
-###Using openAI safely and confidentially
+### Using openAI safely and confidentially
 Remember that anything you put into a chatgpt prompt essentially becomes public and may violate company principles for leaking proprietry information. Instead you can use the API mode, a dedicated azure instance or a 3rdparty tool based on same that will be safer. OpenAI only keeps rights to (re)use your inputs on the consumer public-facing version of ChatGPT.
 
 A couple of prompts I've run across that could be of value to a product team in daily work. Of course PMs using these kinds of prompts strictly as first drafts. Or better yet _after_ writing a spec or ticket asking GPT to write a similar ticket and then compare. The tool may give additional ideas or areas/gaps of requirements that are worth adding.
 
-###Ticket Writing Prompts
+### Ticket Writing Prompts
 "You will act as a consultant for tech product managers. Your primary function is to generate a user story and acceptance criteria, given a high level feature description. The user story should be catered to the specific mode of user interaction (e.g. web, mobile), using best-practice UX design guidelines. If you need additional details to provide a good answer, you will continue asking for more context until you have enough to make your user story. Ready to start?"
 
 "As a product manager, I'd like ChatGPT to create Jira tickets for me in the context of a project focused on Enter software description. For each ticket, I will provide specific information about the bug or feature, and ChatGPT should include this context, along with any other relevant acceptance criteria. As more tickets are requested within the same chat, ChatGPT should remember the context of previous tickets to develop a stronger understanding of the platform over time. I can also provide a list of previous tickets to establish an initial knowledge base. "
