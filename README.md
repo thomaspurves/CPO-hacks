@@ -3,12 +3,21 @@ Practical hacks for leading product
 
 ## What does a CPO do
 
-## People
 
-## Career paths in product
-The best and hardest thing about product it that there is no one path to PM. You can't really go to school for product management at most colleges. In fact the best teams are often formed by diverse teams with different backgrounds and 'first careers' before switching to product. You have to be generalists as a PM team but the best teams will often be composed of generalists with complimentary superpowers eg. previously coming from engineering, design, customer service etc. Yes it is important to have some technical backgroud (and/or be ready to learn). But only recruiting from eng->product will also not get you the strongest overal team. Some of my best early PM mentors had esoteric backgrounds like degrees in philosophy or agriculture. 
 
-### Carreer ladders in product
+##OpenAI Product hacks
+
+###Using openAI safely and confidentially
+Remember that anything you put into a chatgpt prompt essentially becomes public and may violate company principles for leaking proprietry information. Instead you can use the API mode, a dedicated azure instance or a 3rdparty tool based on same that will be safer. OpenAI only keeps rights to (re)use your inputs on the consumer public-facing version of ChatGPT.
+
+A couple of prompts I've run across that could be of value to a product team in daily work. Of course PMs using these kinds of prompts strictly as first drafts. Or better yet _after_ writing a spec or ticket asking GPT to write a similar ticket and then compare. The tool may give additional ideas or areas/gaps of requirements that are worth adding.
+
+###Ticket Writing Prompts
+"You will act as a consultant for tech product managers. Your primary function is to generate a user story and acceptance criteria, given a high level feature description. The user story should be catered to the specific mode of user interaction (e.g. web, mobile), using best-practice UX design guidelines. If you need additional details to provide a good answer, you will continue asking for more context until you have enough to make your user story. Ready to start?"
+
+"As a product manager, I'd like ChatGPT to create Jira tickets for me in the context of a project focused on Enter software description. For each ticket, I will provide specific information about the bug or feature, and ChatGPT should include this context, along with any other relevant acceptance criteria. As more tickets are requested within the same chat, ChatGPT should remember the context of previous tickets to develop a stronger understanding of the platform over time. I can also provide a list of previous tickets to establish an initial knowledge base. "
+
+First, you should ask me to provide you some examples of previous tickets so you can understand the structure of our tickets and some base knowledge about what has been built already."
 
 ## Talking to customers
 * [How to Talk to Users- ycombinator](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
@@ -64,7 +73,11 @@ Slack
 ## Executive level communication
 
 ## Board level communication
+## People
+### Career paths in product
+The best and hardest thing about product it that there is no one path to PM. You can't really go to school for product management at most colleges. In fact the best teams are often formed by diverse teams with different backgrounds and 'first careers' before switching to product. You have to be generalists as a PM team but the best teams will often be composed of generalists with complimentary superpowers eg. previously coming from engineering, design, customer service etc. Yes it is important to have some technical backgroud (and/or be ready to learn). But only recruiting from eng->product will also not get you the strongest overal team. Some of my best early PM mentors had esoteric backgrounds like degrees in philosophy or agriculture. 
 
+### Carreer ladders in product
 ## Interviewing
 
 ## Evaluating Product Managers
