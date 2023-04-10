@@ -4,12 +4,18 @@ Practical hacks for leading product, particularly in Fintech. In no partucular o
 ## What does a CPO do
 A Chief Product Officer (CPO) for a fintech company is responsible for managing the development and launch of financial products and services. They must ensure the product is compliant with regulations, meets customer needs, and generates revenue. This involves developing the product roadmap, managing the product team, conducting market research, collaborating with other departments, and setting product pricing. A CPO does all this by helping to shape culture, organizational structures (just the right amount of) effective process to enable not just their people, but all the dependant & partner organaizaiont orgs within the the company to be suceessful. Which, btw, is just about all of them. Lastly, it's about leading from the front. Leading from the front means being alsways ready to roll up sleeves and jump in hands-on to help with any challenge within and without of your team. Lastly you've got to absolutely pationate about your problem space and about solving those problemes for your current and future customers. 
 
-## OpenAI Product hacks
+## AI Product hacks
+
+Focus of much of my attention right now so getting a special section
 
 ### Using openAI safely and confidentially
 Remember that anything you put into a chatgpt prompt essentially becomes public and may violate company principles for leaking proprietry information. Instead you can use the API mode, a dedicated azure instance or a 3rdparty tool based on same that will be safer. OpenAI only keeps rights to (re)use your inputs on the consumer public-facing version of ChatGPT.
 
 A couple of prompts I've run across that could be of value to a product team in daily work. Of course PMs using these kinds of prompts strictly as first drafts. Or better yet _after_ writing a spec or ticket asking GPT to write a similar ticket and then compare. The tool may give additional ideas or areas/gaps of requirements that are worth adding.
+
+### AI and Finance resources
+* [FinGPT: Open-source for Open-finance](https://github.com/AI4Finance-Foundation/FinGPT)
+* [6.8Bn Market sizing estimate] (https://www.globenewswire.com/en/news-release/2023/04/03/2640032/0/en/Generative-AI-in-Fintech-Market-Size-to-Exceed-US-6-2-Bn-by-2032-Report-by-Market-us.html) - undoubtaly an underestimate
 
 ### Ticket Writing Prompts
 "You will act as a consultant for tech product managers. Your primary function is to generate a user story and acceptance criteria, given a high level feature description. The user story should be catered to the specific mode of user interaction (e.g. web, mobile), using best-practice UX design guidelines. If you need additional details to provide a good answer, you will continue asking for more context until you have enough to make your user story. Ready to start?"
