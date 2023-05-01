@@ -43,6 +43,14 @@ Develop an appreciation for the design process and emphasize the importance of u
 ## Working with engineers
 
 Building strong relationships with software engineers is essential. Start by fostering open communication, understanding their pain points, and establishing clear goals and expectations. Encourage a collaborative environment that promotes knowledge sharing and continuous learning. Be open to their ideas and provide them with the resources and support they need to excel in their roles. See also Building Trust with Engineers.
+* Ask for forecasts over commitments
+* Understand where the risks and uncertainties are early and what's driving them
+* Understand your realistic effective velocity
+* Take acountability for roadmaps and expectations for engineeing execution
+* Create realistic evidence-based roadmaps
+* Be specific in requirments, give reasons why, be open (or sometimes push for) alternate solutions
+* Engage engineers in business goals and metrics
+* Help your engineers see and appreciate the direct contribution of their work on user outcomes and business success
 
 
 
