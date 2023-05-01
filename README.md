@@ -34,9 +34,17 @@ It all starts with trust. Too often I see product and engineering teams quick to
 
 ## Building trust between product, design, engineering and the rest of the org
 
-## Working with designers
+## Working with Designers
+
+Develop an appreciation for the design process and emphasize the importance of user experience. Earn trust by encourage constructive feedback, involving design in product strategy discussions. Pick your battles, but follow through by helping designer stand their ground, sometimes even on small details, that impact the user experience.  Foster a supportive environment that allows designers to showcase their creativity and ensure their work is valued and respected.
+
+
 
 ## Working with engineers
+
+Building strong relationships with software engineers is essential. Start by fostering open communication, understanding their pain points, and establishing clear goals and expectations. Encourage a collaborative environment that promotes knowledge sharing and continuous learning. Be open to their ideas and provide them with the resources and support they need to excel in their roles. See also Building Trust with Engineers.
+
+
 
 ## There is NO perfect software development process for all projects
 
