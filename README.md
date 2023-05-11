@@ -4,6 +4,17 @@ Practical hacks for leading product, particularly in Fintech. In no partucular o
 ## What does a CPO do
 A Chief Product Officer (CPO) for a fintech company is responsible for managing the development and launch of financial products and services. They must ensure the product is compliant with regulations, meets customer needs, and generates revenue. This involves developing the product roadmap, managing the product team, conducting market research, collaborating with other departments, and setting product pricing. A CPO does all this by helping to shape culture, organizational structures (just the right amount of) effective process to enable not just their people, but all the dependant & partner organaizaiont orgs within the the company to be suceessful. Which, btw, is just about all of them. Lastly, it's about leading from the front. Leading from the front means being alsways ready to roll up sleeves and jump in hands-on to help with any challenge within and without of your team. Lastly you've got to absolutely pationate about your problem space and about solving those problemes for your current and future customers. 
 
+## Product Management Template Resources
+Why re-invent the wheel. Looking for a quick way to get your team started with common product management frameworks? I like some of these templates:
+
+1. From (https://productschool.com/resources/templates)[Product School] Product Roadmap, PRD docs, OKRs, Value propostion canvas
+2. From (https://www.figma.com/templates/product-management/)[Figma] Various Product Management templates
+3. From (https://miro.com/templates/product-management/)[Miro] Miro templates especially useful for remote/live team brainstorming
+4. (https://docs.google.com/document/d/1W46cmPfPwXIIH2mNNbbQ5EdjnhQFqGxGhT5iAijmJjc/edit#heading=h.cqt1a4hrfy8u) Asana’s project brief template - google doc
+5. (https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit) Product Hunt's PRD template - google doc
+
+
+
 ## AI Product hacks
 
 Focus of much of my attention right now so getting a special section
@@ -36,9 +47,26 @@ It all starts with trust. Too often I see product and engineering teams quick to
 
 ## Working with Designers
 
-Develop an appreciation for the design process and emphasize the importance of user experience. Earn trust by encourage constructive feedback, involving design in product strategy discussions. Pick your battles, but follow through by helping designer stand their ground, sometimes even on small details, that impact the user experience.  Foster a supportive environment that allows designers to showcase their creativity and ensure their work is valued and respected.
+Develop an appreciation for the design process and emphasize the importance of user experience. Earn trust by encourage constructive feedback, involving design in product strategy discussions. Pick your battles, but follow through by helping designer stand their ground, sometimes even on small details, that impact the user experience.  Foster a supportive environment that allows designers to showcase their creativity and ensure their work is valued and respected. 
 
+Another key way to work effectively with designers is to level up your own design chops.
 
+I love this [https://www.degreeless.design/](curated resource list for design education).
+
+### First priciples of design we can all learn from Dieter Rams
+
+    Good design is innovative
+    Good design makes a product useful
+    Good design is aesthetic
+    Good design makes a product understandable
+    Good design is unobtrusive
+    Good design is honest
+    Good design is long-lasting
+    Good design is thorough down to the last detail
+    Good design is environmentally-friendly
+    Good design is as little design as possible
+
+If you are trying to evaluate or critique design, you could do worse than falling back on these timeless priciples. Remember that these principles go together etc. As is the fashion these days, you may need to wrangle with a designer perhaps overly-focused on minamilism for example. You can acknowledge that 'little design' is a solid principle, however, 'as possible' also implies not-overly at the expense of 'product is understandable' 'useful' and 'honest'.    
 
 ## Working with engineers
 
